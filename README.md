@@ -23,9 +23,3 @@ I have a background in **Ethical Hacking** from Abertay University, Dundee, and 
 ### 🎯 About Me
 I enjoy solving infrastructure challenges, automating repetitive tasks, and bridging the gap between **operations and development**.  
 Always curious, always learning. 🚀  
-
----
-
-### 📫 Connect
-- [LinkedIn](#) (optional, add if you’d like)  
-- [Portfolio/Blog](#) (if you have or want to add one later)  
