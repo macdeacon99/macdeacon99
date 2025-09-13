@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**macdeacon99/macdeacon99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Infrastructure Engineer** working in the financial sector in the UK.  
+I have a background in **Ethical Hacking** from Abertay University, Dundee, and I currently specialize as a **Jamf Engineer**, holding **Jamf 200 & 300 certifications**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- 💻 **Infrastructure & Device Management:** Jamf Pro, macOS/iOS Management  
+- ⚙️ **DevOps & Automation:** CI/CD, scripting, automation workflows  
+- 🐍 **Languages:** Python, Go, Bash, a bit of Web Dev (HTML/CSS/JS)  
+- ☁️ **Interests:** Cloud infrastructure, automation, security, and web technologies  
+
+---
+
+### 📚 Currently Exploring
+- Expanding my skills in **DevOps practices**  
+- Writing more in **Python and Go**  
+- Building **automation scripts & tools** for efficiency  
+
+---
+
+### 🎯 About Me
+I enjoy solving infrastructure challenges, automating repetitive tasks, and bridging the gap between **operations and development**.  
+Always curious, always learning. 🚀  
+
+---
+
+### 📫 Connect
+- [LinkedIn](#) (optional, add if you’d like)  
+- [Portfolio/Blog](#) (if you have or want to add one later)  
